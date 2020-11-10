@@ -26,5 +26,8 @@ Run the script to get a list of parameters to set operations mode and temperatur
 python3 savecair.py
 ```
 
+# Acknowledgements
+Thanks to https://github.com/perara/python-systemair-savecair for creating the SystemAIR python API wrapper.
+
 # Version History
 0.9 - Initial Version
